@@ -6,7 +6,7 @@ public class UpdateData {
       Connection conn = null;
       BufferedReader input = null;
       try {
-         String userName = "mmcmillan";
+         String userName = "eyebe";
          String password = null;
          String url = "jdbc:mysql://localhost/test";
          Class.forName("com.mysql.jdbc.Driver").newInstance();
