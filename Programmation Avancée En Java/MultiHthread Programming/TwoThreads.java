@@ -1,5 +1,3 @@
-// this program is based on a similar program in
-// Java Programming: Advanced Topics, Wigglesworth and McMillan
 
 import java.io.*;
 
