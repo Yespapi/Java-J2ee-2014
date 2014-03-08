@@ -1,0 +1,3 @@
+notes:spring_life_cycle:
+1.request-puis envyer au Filter Dispatcher -qui demande lui à Aux actions et les Actions demande des résults et le resaultat
+est envoyé

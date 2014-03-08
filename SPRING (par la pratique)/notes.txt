@@ -1,0 +1,24 @@
+lol y'a nak un peu de mélanges  d'anglais et français, c'est devenu un mauvais habitude,  CMS Liferay.
+notes: Plain Old Java Object, Spring STS , Tomcat, Maven, srping source website
+https://github.com/spring-projects/spring-framework
+http://commons.apache.org/proper/commons-logging/
+http://projects.spring.io/spring-android/
+
+ Module 1: TP
+      1 .create new project in Spring  STS, create new class  com.yespapi.model and class name Customer,  generate getters et setters .
+              utilialitre:sourceformat and source sort
+
+       2.create repository object, DAO, com.pluralsight.repository, and name gith  Hiberante RepositoryCustomerLmpl and add a method find all
+              
+                 
+      3.create service or bussnisess logic if you want : create class CustomerServiceImpl.java Crlt shift O
+
+Module 2: Pratiquer   .spring_xml
+     1.create the build path
+     2.spring_sample_xml open 
+     3.add spring bean configuration file: src/applicationContext.xml
+     4.declarer les classes dans le bean
+      5.declarer les propriétés des beans
+     remarque: bean elegan
+     5.autowriting, construcutor par defaut obligatoire
+    
